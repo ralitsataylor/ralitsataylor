@@ -1,11 +1,11 @@
-<p>Hello there, I am <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="29px" style="max-width: 100%;"></p>
-<div class="markdown-heading" dir="auto"><img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/14346554?v=4" width="150" height="150" style="max-width: 100%; object-fit: cover; border-radius: 50%;"><h1 class="heading-element" dir="auto">Ralitsa Taylor :unicorn:</h1><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></div></div>
 
-<p>I am a proactive "can-do" professional with 5+ years of experience in the IT field.</p>
+<div>Hello there <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="29px" style="max-width: 100%;"><h1 class="heading-element" dir="auto">I am Ralitsa Taylor :unicorn:</h1><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></div>
 
 **`Mid Front-end Developer`**
 
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="30" style="max-width: 100%;"> Some Tools I Have Used and Learned</h2>
+<p>A proactive "can-do" professional with 5 &frac12; years of experience. Building state-of-the-art, easy to use, user-friendly websites is truly a passion to mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements. Happy coding to all! :)</p>
+
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="30" style="max-width: 100%;"> The tools I've used along the way</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" height="32" loading="lazy">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="32" height="32" loading="lazy">
@@ -34,6 +34,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="32" height="32" loading="lazy">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="32" height="32" loading="lazy">
 </p>  
-          
+
+<h2>📊 Stats and Activity</h2>
+  <h3>🔥 Streak Stats</h3>
+  <!-- GitHub Readme Streak Stats - https://github.com/ralitsataylor/github-readme-streak-stats -->
+<p>
+  <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ralitsataylor's's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ralitsataylor&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+</p>
+
+
+    
           
           
