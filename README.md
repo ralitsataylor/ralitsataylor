@@ -3,7 +3,7 @@
 
 **`Mid Front-end Developer`**
 
-<p>A proactive "can-do" professional with 5 &frac12; years of experience. Building state-of-the-art, easy to use, user-friendly websites is truly a passion to mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements. Happy coding to all! :)</p>
+<p>A proactive "can-do" professional with 5 &frac12; years of experience. Building state-of-the-art, easy to use, user-friendly websites is truly a passion of mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements. Happy coding to all! :)</p>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="30" style="max-width: 100%;"> The tools I've used along the way</h2>
 <p align="left">
